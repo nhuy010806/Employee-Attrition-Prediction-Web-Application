@@ -1,4 +1,4 @@
-# 🚀 HR Attrition Prediction Web App
+# 🚀 HR Attrition Prediction Web App ( One part of the project Advanced Data Analyst ) 
 
 A full-stack AI application designed to predict the likelihood of an employee leaving the company (Attrition). This project combines a modern web interface with a robust Machine Learning model to deliver real-time HR analytics.
 
